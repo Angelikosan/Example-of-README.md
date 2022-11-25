@@ -6,4 +6,4 @@ example of readme.md for συσταδοποιηση chapter.
 
 Thank you for your attention.
 
-** Angeliki Astreinidou **
+**Angeliki Astreinidou**
